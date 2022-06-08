@@ -3,7 +3,7 @@ package unittesing123;
 import java.util.InputMismatchException;
 	import java.util.Scanner;
 	
-public class AllTests {
+public class AllTest123 {
 	public static void main(String[] args) {
 	        
 		int num1, num2, ans;
